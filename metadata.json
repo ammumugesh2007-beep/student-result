@@ -1,0 +1,6 @@
+{
+  "name": "Student Success Predictor & Advisor AI",
+  "description": "Smart academic performance predictor and personalized advisor for students and teachers with predictive scoring, risk analysis, and actionable growth plans.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
